@@ -1,7 +1,7 @@
 ## Custom react component for Checkbox
   Custom component for checkbox input tag in react.<br>
   src/final - contains the final summarized feature showcase of the components<br>
-  ### routes
+  ### Routes
   loaclhost:3000/ -> route for the final component<br>
   localhost:3000/check -> test route for the checkbox component<br>
  
