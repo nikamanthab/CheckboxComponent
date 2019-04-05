@@ -8,7 +8,7 @@
   the value of the checkbox can be obtained in the / route in the console
 
 ### Custom props
-  disabled: true / false<br>
-  checked: true / false<br>
-  handlecheckbox: accepts a function that can get back the checked value of the checkbox component
+  Disabled: true / false<br>
+  Checked: true / false<br>
+  Handlecheckbox: accepts a function that can get back the checked value of the checkbox component
 
